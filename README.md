@@ -14,3 +14,18 @@ que actualmente posee la pagina web para el goce de sus usuarios_.
 
 ![IMAGEN PAGINA WEB](https://github.com/LOBOSJOCELYN/miprimer.repositorio/blob/main/ADULT.jpg)
 
+Apesar de las diversas secciones solo se tomara en cuenta  3 secciones que seran utilizadas para ser analizadas en una base de datos.
+mencionadas a continuación.
+
+## SHOWS
+![IMAGEN PAGINA WEB](https://github.com/LOBOSJOCELYN/miprimer.repositorio/blob/main/Warner-Channel.jpg)
+
+
+
+## MUSIC
+
+![IMAGEN PAGINA WEB](https://github.com/LOBOSJOCELYN/miprimer.repositorio/blob/main/.jpg)
+
+
+## GAMES
+![IMAGEN PAGINA WEB](https://github.com/LOBOSJOCELYN/miprimer.repositorio/blob/main/.jpg)
