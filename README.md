@@ -19,13 +19,24 @@ mencionadas a continuación.
 
 ## SHOWS
 ![IMAGEN PAGINA WEB](https://github.com/LOBOSJOCELYN/miprimer.repositorio/blob/main/shows.jpg)
-
+_en esta seccion se muestran los distintos programas 
+cada uno de estos programas posee sus respectivos capitulos ; ademas a 
+acceder a la posibilidad de realizar busqueda por letra desde la A hasta Y_
 
 
 ## MUSIC
 
-![IMAGEN PAGINA WEB](https://github.com/LOBOSJOCELYN/miprimer.repositorio/blob/main/music.jpg)
+![IMAGEN PAGINA WEB](https://github.com/LOBOSJOCELYN/miprimer.repositorio/blob/main/music2.jpg)
 
+_Aqui podemos ver variadas listas de spotify de musica de adult swim; ademas de una seccion de videos musicales._
 
 ## GAMES
 ![IMAGEN PAGINA WEB](https://github.com/LOBOSJOCELYN/miprimer.repositorio/blob/main/games.jpg)
+_seccion de video juegos en donde la libreria se divide por 6 secciones 
+ *All - steam - switch - Playstation 4 - Ios - Android*
+ 
+ 
+ por lo tanto queria analizar la cantidad de usuarios que se pudiesen generar en las distintas secciones ;Ya sea atraves de la cantidad de reproducciones de cierta lista de musica de spotify, o analizar si la estructura de los programas mas populares mantiene un patron que produce cierta cantidad de exito,ademas de ver si existe una relacion entre los usuarios que ingresan a cada una de las secciones si estos seran usuarios activos solo de esa seccion o han ingresado a las otras secciones.
+ 
+ _estas son algunas de las hipotesis que me plantie para realizar el trabajo._
+
