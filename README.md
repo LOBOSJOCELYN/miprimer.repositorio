@@ -19,8 +19,8 @@ mencionadas a continuación.
 
 ## SHOWS
 ![IMAGEN PAGINA WEB](https://github.com/LOBOSJOCELYN/miprimer.repositorio/blob/main/shows.jpg)
-_en esta seccion se muestran los distintos programas 
-cada uno de estos programas posee sus respectivos capitulos ; ademas a 
+
+_en esta seccion se muestran los distintos programas cada uno de estos programas posee sus respectivos capitulos ; ademas a 
 acceder a la posibilidad de realizar busqueda por letra desde la A hasta Y_
 
 
@@ -32,7 +32,7 @@ _Aqui podemos ver variadas listas de spotify de musica de adult swim; ademas de 
 
 ## GAMES
 ![IMAGEN PAGINA WEB](https://github.com/LOBOSJOCELYN/miprimer.repositorio/blob/main/games.jpg)
-_seccion de video juegos en donde la libreria se divide por 6 secciones 
+_seccion de video juegos en donde la libreria se divide por 6 secciones_ 
  *All - steam - switch - Playstation 4 - Ios - Android*
  
  
